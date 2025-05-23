@@ -30,6 +30,7 @@
 
 ### 🎮 땅따먹기 콘솔 게임
 > Paper.io를 참고해 만든 콘솔 기반 게임 (C 언어)
+
 [🔗 GitHub Repository](https://github.com/Lim-LiBin/EatTheLandGame)
 
 - 캐릭터 이동, 벽 충돌, 영역 점령 로직 구현
@@ -39,6 +40,7 @@
 
 ### 🎮 행맨 게임
 > 난이도 선택, 승률 집계, 그래픽 포함 Java GUI 행맨 게임
+
 [🔗 GitHub Repository](https://github.com/Lim-LiBin/Hangman)
 
 -  Easy/Medium/Hard 난이도 설정 및 승률 계산
@@ -49,6 +51,7 @@
 
 ### 📱 IoT 기반 웹 방명록 시스템
 > Raspberry Pi + Flask + OpenCV + MQTT 기반의 실시간 방문 기록 시스템
+
 [🔗 GitHub Repository](https://github.com/Lim-LiBin/GuestBook)
 
 - 초음파 센서로 거리 측정, HTU21D 센서로 온도 모니터링
