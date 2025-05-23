@@ -39,6 +39,7 @@
 
 ### 🎮 행맨 게임
 > 난이도 선택, 승률 집계, 그래픽 포함 Java GUI 행맨 게임
+[🔗 GitHub Repository](https://github.com/Lim-LiBin/Hangman)
 
 -  Easy/Medium/Hard 난이도 설정 및 승률 계산
 -  Graphics2D를 활용한 행맨 단계별 그리기
@@ -48,6 +49,7 @@
 
 ### 📱 IoT 기반 웹 방명록 시스템
 > Raspberry Pi + Flask + OpenCV + MQTT 기반의 실시간 방문 기록 시스템
+[🔗 GitHub Repository](https://github.com/Lim-LiBin/GuestBook)
 
 - 초음파 센서로 거리 측정, HTU21D 센서로 온도 모니터링
 - 거리 조건에 따라 LED 자동 점등/소등 제어
