@@ -30,7 +30,7 @@
 
 ### 🎮 땅따먹기 콘솔 게임
 > Paper.io를 참고해 만든 콘솔 기반 게임 (C 언어)
-[🔗 GitHub Repository](https://github.com/libin02/project-name)
+[🔗 GitHub Repository](https://github.com/Lim-LiBin/EatTheLandGame)
 
 - 캐릭터 이동, 벽 충돌, 영역 점령 로직 구현
 - 콘솔 그래픽과 좌표기반 충돌 판정 로직 설계
