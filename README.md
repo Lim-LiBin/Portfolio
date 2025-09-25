@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 임리빈입니다!</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   컴퓨터공학을 전공하며, 백엔드 개발에 집중하고 있습니다.<br>
